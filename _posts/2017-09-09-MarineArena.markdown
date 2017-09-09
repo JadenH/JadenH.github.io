@@ -6,7 +6,7 @@ tag:
  - Starcraft 2
  - Arcade
  - GameDev
-image: ../assets/images/BioDefense.png
+image: ../assets/images/MarineArena.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
