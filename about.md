@@ -2,45 +2,34 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hi, I'm Jaden Holladay, and I'm currently a student of the Entertainment Arts & Engineering (EAE) program at the University of Utah. Adobe featured me in a customer story entitled "Jaden Holladay, developing limitless creativity" where I demonstrated diverse talents. I have spent time developing web applications, and mobile/computer games. Several games I have created achieved top 10 in popularity on Blizzard Entertainment's Starcraft II Arcade. As a developer, I am passionate about building intuitive tools for artists and game designers. I have a well rounded background in programming, film, and graphic design.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+---
+# Skills
 
-<h2>Skills</h2>
+- Unity3D & Unreal
+- Web Applications & Design
+- Familiar with User Research
+- Premier & After Effects
+- Adobe Creative Cloud (Illustrator, Photoshop, etc)
+- Scrum
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+## Games
 
-<h2>Projects</h2>
+- C Languages (C, C++, C#)
+- GDB
+- Python
+- Maya & Blender
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+## Web
+
+- CSS (Stylus, Sass, Less)
+- Css Frameworks (Bootstrap, Foundation)
+- Javascript
+- NodeJS
+- ReactJS
+- Ruby on Rails
+- Postgresql - MongoDB

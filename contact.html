@@ -1,0 +1,48 @@
+---
+layout: page
+title: Contact
+---
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+
+
+<section id="contact">
+    <h1> Contact Me </h1>
+    <div id="response"></div>
+    <div class="container">
+        <form id="emailForm" name="emailForm">
+            <input type="email" id="email" name="email" placeholder="Your Email Address" required/>
+            <input type="text" id="fullName" name="fullName" placeholder="Your Full Name" required/>
+            <input type="tel" id="phone" name="phone" placeholder="Your Phone Number (optional)"/>
+            <textarea id="content" name="content" placeholder="Your Message" required></textarea>
+            <button id="submitButton" name="send" type="submit" class="submit">SEND</button>
+        </form>
+    </div>
+</section>
+
+<script>
+    (function($) {
+        function processForm(e) {
+            $("#submitButton").prop("disabled", true);
+
+            $.ajax({
+                url: 'https://jadenholladay.herokuapp.com/email',
+                dataType: 'text',
+                type: 'post',
+                contentType: 'application/x-www-form-urlencoded',
+                data: $(this).serialize(),
+                success: function(data, textStatus, jQxhr) {
+                    $('#response').html(data);
+                },
+                error: function(jqXhr, textStatus, errorThrown) {
+                    console.log(errorThrown);
+                    $("#submitButton").prop("disabled", false);
+                }
+            });
+
+            e.preventDefault();
+        }
+
+        $('#emailForm').submit(processForm);
+    })(jQuery);
+</script>
