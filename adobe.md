@@ -7,7 +7,7 @@ layout: page
 ---
 ## <center>Video</center>
 <center>
-    <video width="640" height="360" poster="../assets/images/adobeVideo.png" controls>
+    <video width="640" height="360" poster="../assets/images/adobeVideo_small.png" controls>
         <source src="../assets/videos/adobe.mp4" type="video/mp4">
     </video>
 </center>
