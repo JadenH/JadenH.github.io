@@ -2,9 +2,6 @@
 name: Jaden Holladay
 bio: Software engineer with a passion for games.
 
-# twitter summary info
-description: A blog about technology and stuff related
-
 # if it's an external image, update below for true
 # better with square images
 external-image: false
@@ -106,3 +103,5 @@ contact_url: https://jadenholladay.herokuapp.com/email
 
 # SEO
 title: Jaden Holladay
+description: Software engineer with a passion for games.
+logo: ../assets/images/profile.jpg
