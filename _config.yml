@@ -101,4 +101,8 @@ plugins:
   - jekyll-feed
   - jemoji
 
+# Contact Page
 contact_url: https://jadenholladay.herokuapp.com/email
+
+# SEO
+title: Jaden Holladay
