@@ -6,12 +6,14 @@ tag:
  - Starcraft 2
  - Arcade
  - GameDev
-image: ../assets/images/MarineArena.png
+ - Game
+image: ../assets/images/MarineArenaSplash.jpg
+imageSize: wide
 headerImage: false
-projects: true
+games: true
 hidden: true # don't count this post in blog pagination
 description: "A StarCraft 2 Arcade Game."
-category: project
+category: games
 author: jadenholladay
 externalLink: false
 ---

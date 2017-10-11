@@ -7,11 +7,12 @@ tag:
  - Arcade
  - GameDev
 image: ../assets/images/BioDefense.png
+imageSize: wide
 headerImage: false
-projects: true
+games: true
 hidden: true # don't count this post in blog pagination
 description: "A StarCraft 2 Arcade Game."
-category: project
+category: games
 author: jadenholladay
 externalLink: false
 ---
