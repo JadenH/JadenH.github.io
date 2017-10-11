@@ -15,6 +15,7 @@ description: "A StarCraft 2 Arcade Game."
 category: games
 author: jadenholladay
 externalLink: false
+weight: 3
 ---
 
 ![Screenshot](../assets/images/BioDefense.png)

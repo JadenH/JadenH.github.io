@@ -14,8 +14,8 @@ games: true
 hidden: true # don't count this post in blog pagination
 description: ""
 category: games
-author: jadenholladay
 externalLink: false
+weight: 1
 ---
 
 ![Screenshot](../assets/images/theirregular/baker_st.jpg)

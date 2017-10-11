@@ -2,9 +2,11 @@
 layout: page
 title: Games
 ---
+{% assign sorted_pages = site.posts | sort:"weight" %}
+
 <section class="list">
     <div class="project-grid">
-        {% for post in site.posts %}
+        {% for post in sorted_pages %}
             {% if post.games %}
                 <a href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}" class="item item--full" style="background: url('{{ post.image }}'); background-size: cover; background-position: center;">
                     <div class="item__details">

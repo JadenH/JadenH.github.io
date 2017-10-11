@@ -16,6 +16,7 @@ description: "A StarCraft 2 Arcade Game."
 category: games
 author: jadenholladay
 externalLink: false
+weight: 2
 ---
 
 ![Screenshot](../assets/images/MarineArena.png)

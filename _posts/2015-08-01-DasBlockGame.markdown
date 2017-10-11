@@ -16,6 +16,7 @@ description: "A pygame project."
 category: games
 author: jadenholladay
 externalLink: false
+weight: 5
 ---
 
 ![Screenshot](../assets/images/DasBlock.png)
