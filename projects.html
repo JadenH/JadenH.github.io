@@ -5,7 +5,7 @@ title: Projects
 <section class="list">
     <div class="project-grid">
         {% for post in site.posts %}
-            {% if post.projects %}
+            {% if post.project %}
                 <a href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}" class="item item--{{ post.imageSize }}" style="background: url('{{ post.image }}'); background-size: cover; background-position: center;">
                     <div class="item__details">
                         {{ post.title }}
