@@ -71,14 +71,12 @@
         -ms-grid-row-span: 3;
         grid-row-end: span 3;
     }
-    .item--wide {
-        -ms-grid-row-span: 2;
-        grid-row-end: span 2;
-        grid-column-end: span 3;
-    }
 
     .item--full {
         grid-column-end: auto;
+
+        -ms-grid-row-span: 2;
+        grid-row-end: span 2;
     }
 
     @media screen and (min-width: 768px) {
@@ -96,5 +94,23 @@
         color: #444;
         background: #fff;
         color: #828282;
+    }
+
+    .item__tags {
+        display: inline;
+        padding-left: 10px;
+    }
+
+    .item__tag {
+        padding: 2px 8px;
+        border-radius: 3px;
+        font-size: 1.1rem;
+        background: #ededed;
+        color: #666;
+        letter-spacing: 1px;
+        margin: 3px 1px;
+        text-decoration: none;
+        display: inline-block;
+        font-weight: 300;
     }
 }

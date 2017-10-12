@@ -4,11 +4,9 @@ layout: post
 date: 2016-01-01 22:10
 tag:
  - Starcraft 2
- - Arcade
- - GameDev
- - Game
+ - Modding
 image: ../assets/images/MarineArenaSplash.jpg
-imageSize: wide
+imageSize: full
 headerImage: false
 games: true
 hidden: true # don't count this post in blog pagination

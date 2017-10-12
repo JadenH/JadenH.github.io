@@ -5,9 +5,10 @@ date: 2015-10-12 00:00
 tag:
  - Adobe
  - Video
+ - Article
  - Student
 image: ../assets/images/adobeVideo_small.png
-imageSize: wide
+imageSize: full
 headerImage: false
 project: true
 hidden: false # don't count this post in blog pagination

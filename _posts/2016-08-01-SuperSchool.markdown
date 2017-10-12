@@ -4,8 +4,7 @@ layout: post
 date: 2016-08-01 22:10
 tag:
  - Unity
- - GameDev
- - Game
+ - C#
 image: ../assets/images/superschool.jpg
 imageSize: medium
 headerImage: false

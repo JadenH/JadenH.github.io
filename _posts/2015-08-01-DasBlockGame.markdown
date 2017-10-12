@@ -4,9 +4,9 @@ layout: post
 date: 2015-08-01 22:10
 tag:
  - Python
- - GameDev
- - Game
  - Student Project
+ - Pygame
+ - Pymunk
 image: ../assets/images/DasBlock.png
 imageSize: medium
 headerImage: false

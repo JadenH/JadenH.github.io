@@ -4,10 +4,9 @@ layout: post
 date: 2014-01-23 22:10
 tag:
  - Starcraft 2
- - Arcade
- - GameDev
+ - Modding
 image: ../assets/images/BioDefense.png
-imageSize: wide
+imageSize: full
 headerImage: false
 games: true
 hidden: true # don't count this post in blog pagination
