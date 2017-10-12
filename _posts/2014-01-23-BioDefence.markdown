@@ -1,5 +1,6 @@
 ---
 title: "BioDefense: Zerg Outbreak"
+subtitle: Designer & Developer
 layout: post
 date: 2014-01-23 22:10
 tag:
@@ -18,7 +19,6 @@ weight: 3
 ---
 
 ![Screenshot](../assets/images/BioDefense.png)
-**<center>Task: Designer & Developer</center>**
 
 Capitalizing on the player interest in survival and base building, BioDefense: Zerg Outbreak is a welcoming addition to the Starcraft II Arcade. Built in the Starcraft II Galaxy Editor, BioDefense rose to the top 10 arcade games in North America for several months.
 

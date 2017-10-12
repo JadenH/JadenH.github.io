@@ -1,5 +1,6 @@
 ---
 title: "Marine Arena 2"
+subtitle: Gameplay Programmer
 layout: post
 date: 2016-01-01 22:10
 tag:
@@ -18,7 +19,6 @@ weight: 2
 ---
 
 ![Screenshot](../assets/images/MarineArena.png)
-**<center>Task: Gameplay Programmer</center>**
 
 ### [PC Gamer Article](http://www.pcgamer.com/the-best-starcraft-ii-mods-available-now)
 > "As Marine Arena proves, you can never have too many marines. This 2v2 map gives each player a single building that relentlessly churns out marines. Every enemy marine killed scoops resources that can be used to upgrade your marines, or, if you're feeling blasphemous, spawn a unit that isn't a marine. Marine Arena gets the edge on the many other auto-spawn custom games with its brilliantly designed map. A central, raised point contains a healing node which can be taken for an obvious advantage, while four raised sections on each side offer a secondary tactical objective. After a while there are skirmishes all over the map as each team tests the other's weak points. This map couples strategic intrigue with millions and millions of marines, which can only be a good thing."

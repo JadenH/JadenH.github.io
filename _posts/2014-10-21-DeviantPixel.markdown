@@ -1,5 +1,6 @@
 ---
 title: "Deviant Pixel Logo Reveal"
+subtitle: Animator
 layout: post
 date: 2015-10-12 00:00
 tag:
@@ -16,5 +17,4 @@ author: jadenholladay
 externalLink: false
 ---
 <center><iframe width="750" height="422" src="https://www.youtube.com/embed/XvGnfezxb6g" frameborder="0" allowfullscreen></iframe></center>
-**<center>Task: Animator</center>**
 **<center>Tools: After Effects</center>**

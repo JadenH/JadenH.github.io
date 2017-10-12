@@ -1,5 +1,6 @@
 ---
 title: "Super School"
+subtitle: Technical Director & Lead Programmer
 layout: post
 date: 2016-08-01 22:10
 tag:
@@ -18,6 +19,5 @@ weight: 4
 ---
 
 ![Screenshot](../assets/images/superschool.jpg)
-**<center>Task: Technical Director & Lead Programmer</center>**
 
 ### About

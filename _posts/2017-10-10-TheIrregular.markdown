@@ -1,5 +1,6 @@
 ---
 title: "The Irregular"
+subtitle: Technical Director & Lead Programmer
 layout: post
 date: 2017-10-10 00:00
 tag:
@@ -15,7 +16,6 @@ description: ""
 category: games
 externalLink: false
 weight: 1
-Task: Technical Director & Lead Programmer
 ---
 
 ![Screenshot](../assets/images/theirregular/baker_st.jpg)
@@ -30,3 +30,4 @@ The Irregular is being developed as both a commercial entertainment product and 
 <center><iframe width="750" height="422" src="https://www.youtube.com/embed/BBpE7hYhWp8" frameborder="0" allowfullscreen></iframe></center>
 
 ---
+[Read More](http://www.octothorpe.com/theirregular/)

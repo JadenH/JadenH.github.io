@@ -1,5 +1,6 @@
 ---
 title: "Das Block Game"
+subtitle: Programmer & Designer
 layout: post
 date: 2015-08-01 22:10
 tag:
@@ -20,7 +21,6 @@ weight: 5
 ---
 
 ![Screenshot](../assets/images/DasBlock.png)
-**<center>Task: Programmer & Designer</center>**
 
 ### About
 A simple platformer puzzle game created in my EAE 1410 class at the University of Utah. This was created using Pygame and Pymunk frameworks in Python. Das Block game combined the intriguing puzzle mechanics of Thomas was Alone with the rewinding time mechanic of Braid.
