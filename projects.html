@@ -2,10 +2,12 @@
 layout: page
 title: Projects
 ---
+{% assign sorted_pages = site.posts | sort:"weight" %}
+
 <center><h2 class="title">{{ site.name }}</h2></center>
 <section class="list">
     <div class="project-grid">
-        {% for post in site.posts %}
+        {% for post in sorted_pages %}
             {% if post.project %}
                 <a href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}" class="item item--{{ post.imageSize }}" style="background: url('{{ post.image }}'); background-size: cover; background-position: center;">
                     <div class="item__details">
