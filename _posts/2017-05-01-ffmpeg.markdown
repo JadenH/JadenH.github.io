@@ -19,5 +19,5 @@ weight: 3
 ---
 
 <center>
-<a href='https://github.com/JadenH/cs3505_project_1'><img src='../assets/images/github.jpg' height='60'><h3>View Repository</h3></a>
+<a href='https://github.com/JadenH/FFmpegImageEncoder'><img src='../assets/images/github.jpg' height='60'><h3>View Repository</h3></a>
 </center>
