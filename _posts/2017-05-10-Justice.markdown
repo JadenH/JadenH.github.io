@@ -8,6 +8,7 @@ tag:
  - C#
  - Mobile
  - Student Project
+ - Machine Learning
 image: ../assets/images/justice_device.jpg
 imageSize: full
 headerImage: false

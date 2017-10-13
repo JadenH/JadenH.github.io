@@ -7,7 +7,6 @@ tag:
  - Python
  - Student Project
  - Pygame
- - Pymunk
 image: ../assets/images/DasBlock.png
 imageSize: medium
 headerImage: false
