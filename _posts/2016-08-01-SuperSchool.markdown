@@ -21,3 +21,5 @@ weight: 5
 ![Screenshot](../assets/images/superschool.jpg)
 
 ### About
+A game application for the XQ Super School Project, a contest to “reimagine the American high school to prepare
+our students for challenges they face today and tomorrow”.
