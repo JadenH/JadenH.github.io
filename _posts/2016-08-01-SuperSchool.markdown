@@ -15,7 +15,7 @@ description: ""
 category: games
 author: jadenholladay
 externalLink: false
-weight: 4
+weight: 5
 ---
 
 ![Screenshot](../assets/images/superschool.jpg)
