@@ -7,6 +7,7 @@ tag:
  - C++
  - C#
  - Networking
+ - Student Project
 image: ../assets/images/spreadsheetServer.png
 imageSize: medium
 headerImage: false
