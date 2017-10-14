@@ -16,7 +16,7 @@ hidden: false # don't count this post in blog pagination
 description: ""
 category: projects
 externalLink: https://github.com/JadenH/warehouse-simulation
-weight: 100
+weight: 4
 ---
 
 <center>
