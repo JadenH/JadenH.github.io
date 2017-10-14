@@ -3,8 +3,7 @@ layout: page
 title: Contact
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-
+<script src="../assets/javascript/email.js"></script>
 
 <section id="contact">
     <h1> Contact Me </h1>
@@ -22,27 +21,6 @@ title: Contact
 
 <script>
     (function($) {
-        function processForm(e) {
-            $("#submitButton").prop("disabled", true);
-
-            $.ajax({
-                url: '{{site.contact_url}}',
-                dataType: 'text',
-                type: 'post',
-                contentType: 'application/x-www-form-urlencoded',
-                data: $(this).serialize(),
-                success: function(data, textStatus, jQxhr) {
-                    $('#response').html(data);
-                },
-                error: function(jqXhr, textStatus, errorThrown) {
-                    console.log(errorThrown);
-                    $("#submitButton").prop("disabled", false);
-                }
-            });
-
-            e.preventDefault();
-        }
-
-        $('#emailForm').submit(processForm);
+        $('#emailForm').submit(e => {processForm(e, "{{site.contact_url}}")});
     })(jQuery);
 </script>
