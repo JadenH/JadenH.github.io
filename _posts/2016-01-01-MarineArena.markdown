@@ -10,6 +10,7 @@ image: ../assets/images/MarineArenaSplash.jpg
 imageSize: full
 headerImage: false
 games: true
+featured: true
 hidden: true # don't count this post in blog pagination
 description: "A StarCraft 2 Arcade Game."
 category: games

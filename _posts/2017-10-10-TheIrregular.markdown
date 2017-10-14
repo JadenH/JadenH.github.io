@@ -11,6 +11,7 @@ image: ../assets/images/theirregular/baker_st.jpg
 imageSize: full
 headerImage: false
 games: true
+featured: true
 hidden: true # don't count this post in blog pagination
 description: ""
 category: games

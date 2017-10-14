@@ -12,6 +12,7 @@ image: ../assets/images/adobeVideo_small.png
 imageSize: full
 headerImage: false
 project: true
+featured: true
 hidden: false # don't count this post in blog pagination
 description: ""
 category: project

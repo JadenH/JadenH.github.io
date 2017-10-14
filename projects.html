@@ -4,13 +4,15 @@ title: Projects
 ---
 {% assign sorted_pages = site.posts | sort:"weight" %}
 
-<center><h2 class="title">{{ site.name }}</h2></center>
+<div class="title">Projects</div>
+<div class="subtitle">{{ site.name }}</div>
 <section class="list">
     <div class="project-grid">
         {% for post in sorted_pages %}
             {% if post.project %}
                 <a href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}" class="item item--{{ post.imageSize }}" style="background: url('{{ post.image }}'); background-size: cover; background-position: center;">
                     <div class="item__details">
+                        {% if post.featured %}<div class="star"></div>{% endif %}
                         {{ post.title }}
                         <div class="item__tags">
                             {% if site.show-tags %}
@@ -28,7 +30,7 @@ title: Projects
 
 
 <!--
-<div class="item {% if post.star %}star{% endif %}">
+<div class="item ">
         <center><h3 class="title"></h3></center>
 
 </div>

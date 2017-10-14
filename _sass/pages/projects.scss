@@ -113,4 +113,14 @@
         display: inline-block;
         font-weight: 300;
     }
+
+    .star {
+        display: inline;
+        margin-right: 5px;
+        background-image: url('../assets/images/star.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding-left: 20px;
+    }
 }

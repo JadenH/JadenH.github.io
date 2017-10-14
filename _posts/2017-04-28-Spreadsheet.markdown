@@ -12,6 +12,7 @@ image: ../assets/images/spreadsheetServer.png
 imageSize: medium
 headerImage: false
 project: true
+featured: true
 hidden: false # don't count this post in blog pagination
 description: ""
 category: projects
