@@ -37,7 +37,7 @@
         counter-increment: item-counter;
 
         a {
-            border: 2px solid #003382;
+            border: 2px solid $delta;
             padding: 10px 20px;
             border-radius: 5px;
             text-decoration: none;
@@ -46,7 +46,7 @@
             text-transform: uppercase;
         }
         a:hover {
-            background: #003382;
+            background: $delta;
             color: white;
             transition: all 0.3s ease;
         }
