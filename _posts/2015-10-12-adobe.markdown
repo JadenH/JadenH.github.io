@@ -1,0 +1,31 @@
+---
+title: "Adobe Student Feature"
+subtitle: Jaden Holladay, developing limitless creativity
+layout: post
+date: 2015-10-12 00:00
+tag:
+ - Adobe
+ - Video
+ - Article
+ - Student
+image: ../assets/images/adobeVideo_small.png
+imageSize: full
+headerImage: false
+project: true
+featured: true
+hidden: false # don't count this post in blog pagination
+description: ""
+category: project
+author: jadenholladay
+externalLink: false
+weight: 1
+---
+
+---
+## <center>Video</center>
+<center><iframe width="750" height="422" src="https://www.youtube.com/embed/NKoI1I9J260" frameborder="0" allowfullscreen></iframe></center>
+
+---
+
+## <center>Article</center>
+<center><a href="../assets/pdfs/jaden-holladay-adobe-story.pdf" target="_blank">Jaden Holladay, developing limitless creativity</a></center>
