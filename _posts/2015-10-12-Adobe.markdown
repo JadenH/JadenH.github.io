@@ -19,7 +19,6 @@ category: project
 author: jadenholladay
 externalLink: false
 weight: 1
-redirect_from: "/adobe"
 ---
 
 ---
