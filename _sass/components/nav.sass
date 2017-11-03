@@ -28,9 +28,14 @@
         outline: none
 
 .nav
-  position: absolute
+  margin-top: 20px
+  margin-bottom: 20px
+  position: relative
   right: 0
   top: 0
+
+  @media #{$above}
+    text-align: right
 
   > .list
     padding: 0 13px 0
@@ -43,7 +48,7 @@
   margin-top: 40px
   text-align: center
   margin-bottom: 40px
-  
+
   > .list
     line-height: 3.5rem
 
