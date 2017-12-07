@@ -16,7 +16,7 @@ featured: true
 hidden: false # don't count this post in blog pagination
 description: ""
 category: projects
-externalLink: false
+externalLink: https://github.com/JadenH/spreadsheet_server
 weight: 2
 ---
 

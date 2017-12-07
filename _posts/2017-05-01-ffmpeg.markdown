@@ -15,8 +15,8 @@ project: true
 hidden: false # don't count this post in blog pagination
 description: ""
 category: projects
-externalLink: false
-weight: 3
+externalLink: https://github.com/JadenH/FFmpegImageEncoder
+weight: 4
 ---
 
 <center>
