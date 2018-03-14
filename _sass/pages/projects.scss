@@ -51,6 +51,8 @@
         opacity: 0.3;
         -webkit-transition: opacity 0.3s ease-in-out;
         transition: opacity 0.3s ease-in-out;
+        top: 0;
+        left: 0;
     }
 
     .item:hover {
