@@ -16,10 +16,14 @@ featured: true
 hidden: false # don't count this post in blog pagination
 description: ""
 category: projects
-externalLink: https://github.com/JadenH/spreadsheet_server
+externalLink:
 weight: 2
 ---
 
 <center>
 <a href='https://github.com/JadenH/spreadsheet_server'><img src='../assets/images/github.jpg' height='60'><h3>View Repository</h3></a>
 </center>
+
+* Created a Google Spreadsheet like program with a client in C# and server in C++
+* Implemented a robust, multithreaded asynchronous server in C++.
+* Team of 4 to design and implement a network communication protocol.

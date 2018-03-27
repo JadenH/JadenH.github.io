@@ -24,11 +24,11 @@ weight: 1
 
 This rigorous mystery experience puts your deductive and observational prowess to the test. Unravel a chain of criminal activities as you uncover clues, execute real chemical experiments, explore your mind palace, and more.
 
-The Irregular is being developed as both a commercial entertainment product and a collaborative educational experience as a finalist in the Department of Education's [EdSim Challenge](https://www.edsimchallenge.com/).
+The Irregular is being developed as both a commercial entertainment product and a collaborative educational experience as a top 5 finalist in the Department of Education's [EdSim Challenge](https://www.edsimchallenge.com/).
 
 ---
-## Gameplay
+## Gameplay Trailers
 <center><iframe width="750" height="422" src="https://www.youtube.com/embed/BBpE7hYhWp8" frameborder="0" allowfullscreen></iframe></center>
-
+<center><iframe width="750" height="422" src="https://www.youtube.com/embed/MP2dHP9vvks" frameborder="0" allowfullscreen></iframe></center>
 ---
 [Read More](http://www.octothorpe.com/theirregular/)
