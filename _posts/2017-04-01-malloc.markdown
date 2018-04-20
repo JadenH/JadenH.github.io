@@ -1,0 +1,26 @@
+---
+title: "Malloc (Memory Allocator)"
+subtitle: Programmer
+layout: post
+date: 2017-04-01 00:00
+tag:
+ - C
+ - Student Project
+image: ../assets/images/spreadsheetServer.png
+imageSize: medium
+headerImage: false
+project: true
+featured: true
+hidden: false # don't count this post in blog pagination
+description: ""
+category: projects
+externalLink:
+weight: 3
+---
+
+<center>
+<a href='https://github.com/JadenH/malloc'><img src='../assets/images/github.jpg' height='60'><h3>View Repository</h3></a>
+</center>
+
+* To design and implement a memory allocator in C.
+* This implementation makes use of an explicit free list. The rules for allocation are to find the first available block that fits the amount to be allocated. This first fit strategy can be modified easily by changing the logic contained within find_available_block.
