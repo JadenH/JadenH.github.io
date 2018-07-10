@@ -1,0 +1,33 @@
+---
+title: "Blerp"
+subtitle: A search engine for sound bites.
+layout: post
+date: 2018-07-10 00:00
+tag:
+ - Blerp
+ - Web Application
+ - NodeJS
+ - GraphQL
+image: ../assets/images/blerp_site.png
+imageSize: medium
+headerImage: false
+project: true
+featured: true
+hidden: false # don't count this post in blog pagination
+description: ""
+category: project
+author: jadenholladay
+externalLink: false
+weight: 1
+---
+<center><a href='https://blerp.com/'><img src='../assets/images/blerp_logo.png' height='60'></a></center>
+
+---
+
+<center><iframe width="100%" height="500" src="https://www.blerp.com" frameborder="0" allowfullscreen></iframe></center>
+
+---
+* Design and implement a horizontally scalable backend API with GraphQL used by thousands
+clients across the world.
+* Create a search algorithm for finding relevant audio clips.
+* Built a Discord bot for playing audio clips, used by 800+ servers reaching over 100,000 users.
