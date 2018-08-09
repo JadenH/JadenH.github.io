@@ -23,6 +23,12 @@ weight: 4
 ![Screenshot](../assets/images/justice_device.jpg)
 **<center>“Equal Justice under Law!”</center>**
 
+<center>
+    <a href='https://github.com/JadenH/justiceapp'><img src='../assets/images/github.jpg' height='60'></a>
+</center>
+
+
+
 Welcome to the Justice© Risk Assessment and Sentencing assistant program. Our patented machine learning algorithms will learn from your decisions and rely on your sense of judgement to assist you in deterring the risk level of defendants and assigning consistent and fair sentences. Our motto is “Equal Justice under Law!”
 
 Justice.exe is a short narrative game the informs the player of the dangers of the use of machine learning algorithms in the criminal justice sentencing system.
@@ -31,6 +37,8 @@ Justice.exe is a short narrative game the informs the player of the dangers of t
 ## About
 As part of the Honors When Machines Decide Praxis Lab on Big Data and Machine Decision-making, students explored the increasing use of automated decision-making in society.  These opaque systems operate silently in the background, with little transparency, yet make decisions that significantly impact us in virtually every facet of our life.
 [Read More](http://justiceexe.com/index.html)
+
+Fun Fact: The Justice.exe app was built in under 24 hours!
 
 ---
 
