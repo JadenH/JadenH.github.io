@@ -31,3 +31,6 @@ weight: 1
 clients across the world.
 * Create a search algorithm for finding relevant audio clips.
 * Built a Discord bot for playing audio clips, used by 800+ servers reaching over 100,000 users.
+* Capture and analyze usage of the website.
+
+![Screenshot](../assets/images/blerp-analytics.png)
