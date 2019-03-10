@@ -13,8 +13,8 @@ resume: true
 resume-external: true
 resume-url: ../assets/pdfs/jaden-holladay-resume.pdf
 
-url: http://jadenholladay.com
-# your url: http://USERNAME.github.io
+url: https://jadenholladay.com
+# your url: https://USERNAME.github.io
 
 permalink: /:title/
 
