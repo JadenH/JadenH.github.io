@@ -1,0 +1,64 @@
+---
+title: "Ride.Share"
+subtitle: Engineer
+layout: post
+date: 2016-01-01 22:10
+tag:
+ - Unity
+ - C#
+ - AR
+ - Student Project
+image: ../assets/images/RideShare.png
+imageSize: full
+headerImage: false
+games: true
+featured: true
+hidden: true # don't count this post in blog pagination
+description: "Ride.Share is a mobile, augmented reality game that allows you to become the strategist in controlling your own fleet of cars and running a rideshare company."
+category: games
+author: jadenholladay
+externalLink: false
+weight: 4
+---
+
+![Screenshot](../assets/images/RideShare.png)
+
+
+Ride.Share is a mobile, augmented reality game that allows you to become the strategist in controlling your own fleet of cars and running a rideshare company. Your goal is to pick up and drop off as many passengers as possible along numerous drop off points and take control of the city, faster than your rival rideshare companies. Levels are all based on real major cities around the world such as San Francisco and Dubai to give the best real world, AR experience.
+
+<center><iframe width="560" height="310" src="https://www.youtube.com/embed/udh1QcA4J5Y" frameborder="0" allowfullscreen></iframe></center>
+---
+## Entertainment Arts and Engineering
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="../assets/images/RideShareEAEPlay.jpg" alt="Alt Text">
+        <figcaption class="caption">President of the University of Utah, Dr. Ruth V. Watkins playing Ride.Share at EAE Play</figcaption>
+    </div>
+    <div class="toright">
+        <p>Ride.Share was developed apart of the 2018-2019 undergraduate capstone in the <a href="https://games.utah.edu/">Entertainment Arts and Engineering</a> program at the University of Utah. The Entertainment Arts and Engineering Program at the University of Utah offers a truly unique academic experience and is ranked as one of the top game development programs in the world.</p>
+    </div>
+</div>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How did the day end? Gaming! I stopped by the <a href="https://twitter.com/eae_gamerU?ref_src=twsrc%5Etfw">@eae_gamerU</a> Play event. Wow! So impressed by the talent &amp; creativity of our students. Congrats to Bob Kessler, who started the Entertainment Arts Engineering program, and Roger Altizer <a href="https://twitter.com/real_rahjur?ref_src=twsrc%5Etfw">@real_rahjur</a>, associate director. <a href="https://twitter.com/UUtah?ref_src=twsrc%5Etfw">@UUtah</a> <a href="https://twitter.com/hashtag/eSports?src=hash&amp;ref_src=twsrc%5Etfw">#eSports</a> <a href="https://t.co/tZQzfKCWaI">pic.twitter.com/tZQzfKCWaI</a></p>&mdash; Ruth V. Watkins (@RuthVWatkins) <a href="https://twitter.com/RuthVWatkins/status/1071238007305363456?ref_src=twsrc%5Etfw">December 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+## Screenshots
+![Screenshot](../assets/images/rideshare/screenshot1.png)
+![Screenshot](../assets/images/rideshare/screenshot2.png)
+![Screenshot](../assets/images/rideshare/screenshot3.png)
+
+--- 
+## Team Members
+* Austin Anderson – engineer
+* Logan Erickson – producer/designer/engineer
+* Patrick Hirsh – engineer
+* Jaden Holladay – engineer
+* Jackson Keller – artist
+* Christina Martinez – artist
+* Makenzie Matthews – artist
+* Erik Simpson – designer
+* Adam Waggoner – engineer
+* Yingning Ye – artist
+* Hiro Yoshigi – producer/designer
