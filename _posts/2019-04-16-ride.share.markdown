@@ -27,6 +27,12 @@ weight: 4
 Ride.Share is a mobile, augmented reality game that allows you to become the strategist in controlling your own fleet of cars and running a rideshare company. Your goal is to pick up and drop off as many passengers as possible along numerous drop off points and take control of the city, faster than your rival rideshare companies. Levels are all based on real major cities around the world such as San Francisco and Dubai to give the best real world, AR experience.
 
 <center><iframe width="560" height="310" src="https://www.youtube.com/embed/udh1QcA4J5Y" frameborder="0" allowfullscreen></iframe></center>
+
+<center>
+<a href='https://itunes.apple.com/us/app/ride-share/id1459718443?ls=1&mt=8'><img src='../assets/images/store_apple.png' height='60'></a>
+<a href='https://play.google.com/store/apps/details?id=com.TeamRideshare.Volta'><img src='../assets/images/store_google.png' height='60'></a>
+</center>
+
 ---
 ## Entertainment Arts and Engineering
 
