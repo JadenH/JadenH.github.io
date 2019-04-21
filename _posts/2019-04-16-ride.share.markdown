@@ -12,7 +12,7 @@ image: ../assets/images/RideShare.png
 imageSize: full
 headerImage: false
 games: true
-featured: true
+featured: false
 hidden: true # don't count this post in blog pagination
 description: "Ride.Share is a mobile, augmented reality game that allows you to become the strategist in controlling your own fleet of cars and running a rideshare company."
 category: games
