@@ -29,3 +29,8 @@ weight: 1
 
 ## <center>Article</center>
 <center><a href="../assets/pdfs/jaden-holladay-adobe-story.pdf" target="_blank">Jaden Holladay, developing limitless creativity</a></center>
+
+---
+
+![Screenshot](../assets/images/adobe.png)
+<figcaption class="caption">Featured on Adobe EDU front page</figcaption>
