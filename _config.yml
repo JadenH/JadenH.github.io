@@ -1,6 +1,6 @@
 # main text of home
 name: Jaden Holladay
-bio: Software engineer with a passion for games.
+bio: Software Engineer
 
 # if it's an external image, update below for true
 # better with square images
@@ -52,7 +52,7 @@ github: JadenH
 authors:
     jadenholladay:
         name: Jaden Holladay
-        bio: Software engineer with a passion for games.
+        bio: Software Engineer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: JadenHolladay
@@ -105,5 +105,5 @@ contact_url: https://jadenholladay.herokuapp.com/email
 
 # SEO
 title: Jaden Holladay
-description: Software engineer with a passion for games.
+description: Software Engineer
 logo: ../assets/images/profile.jpg
